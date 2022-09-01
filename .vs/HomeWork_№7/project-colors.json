@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a138a20a-ec8e-4002-a820-57142c21b03e": {
+      "ProjectGuid": "a138a20a-ec8e-4002-a820-57142c21b03e",
+      "DisplayName": "Doubler",
+      "ColorIndex": 0
+    },
+    "047220dc-e2ab-46ea-ba0d-61ba958d4c3a": {
+      "ProjectGuid": "047220dc-e2ab-46ea-ba0d-61ba958d4c3a",
+      "DisplayName": "guessN",
+      "ColorIndex": 1
+    },
+    "e58833f0-8e9d-4115-9061-0a9cc17fbf38": {
+      "ProjectGuid": "e58833f0-8e9d-4115-9061-0a9cc17fbf38",
+      "DisplayName": "guessN",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
